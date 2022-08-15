@@ -1,5 +1,7 @@
 # POSTAGRAM
 A instagram clone. 
+Take a look at how it works: https://youtu.be/mbloXuAA-LY
+
 
 ## Technologies used:
 - React
