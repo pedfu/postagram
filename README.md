@@ -1,11 +1,12 @@
 # POSTAGRAM
 A instagram clone. 
-Technologies used:
+
+## Technologies used:
 - React
 - Firebase
 - Tailwind
 
-Some functionalities:
+## Some functionalities:
 - Login/Signin
 - Add post
 - Like/Comment post
